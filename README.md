@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RootMotus
-- 👀 I’m interested in Network & CyberSecurity (Red Teaming)
-- 🌱 I’m currently a CyberSecurity Actor (Blue Teaming & Red Teaming)
+- 👀 I’m interested in Network & CyberSecurity (Pentesting)
+- 🌱 I’m currently a CyberSecurity Actor (Blue Team)
 - 🤝 Feel free to collaborate on CyberSecurity Topic - Web Attacks - Bug Bounty - Phishing - Users Prevention
 - 📫 How to reach me : Twitter @rootmotus
 
